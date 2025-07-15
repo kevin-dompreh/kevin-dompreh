@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevin-dompreh
-- 👀 I’m interested in frontend 
+- 👀 I’m interested in frontend as well as backend. So basically fullstack but more emphasis on the bacend for now.
 - 🌱 I’m currently learning javascript and react.js
 - 💞️ I’m looking to collaborate on a project I have in mind
 - 📫 How to reach me; whatsapp me on 0537208169 or try my gmail domprehkevin05@gmail.com
